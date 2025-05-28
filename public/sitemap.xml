@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/national-grid/</loc>
+    <loc>https://example.org/posts/national-grid/</loc>
     <lastmod>2025-05-29T00:37:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-05-29T00:37:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2025-05-29T00:37:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/judd-stone/</loc>
+    <loc>https://example.org/posts/judd-stone/</loc>
     <lastmod>2025-05-29T00:37:12+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jeopardy/</loc>
+    <loc>https://example.org/posts/jeopardy/</loc>
     <lastmod>2025-05-29T00:36:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/southwest-airlines-checked-baggage-fees/</loc>
+    <loc>https://example.org/posts/southwest-airlines-checked-baggage-fees/</loc>
     <lastmod>2025-05-29T00:35:36+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/matteo-gigante/</loc>
+    <loc>https://example.org/posts/matteo-gigante/</loc>
     <lastmod>2025-05-29T00:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ronel-blanco/</loc>
+    <loc>https://example.org/posts/ronel-blanco/</loc>
     <lastmod>2025-05-29T00:34:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/olga-danilovi%C4%87/</loc>
+    <loc>https://example.org/posts/olga-danilovi%C4%87/</loc>
     <lastmod>2025-05-29T00:33:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/danielle-collins/</loc>
+    <loc>https://example.org/posts/danielle-collins/</loc>
     <lastmod>2025-05-29T00:32:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/korn-ferry/</loc>
+    <loc>https://example.org/posts/korn-ferry/</loc>
     <lastmod>2025-05-29T00:31:48+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/autopen/</loc>
+    <loc>https://example.org/posts/autopen/</loc>
     <lastmod>2025-05-29T00:31:02+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
