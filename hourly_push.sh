@@ -2,7 +2,7 @@
 
 # 切换到你的项目目录 (如果 cron 从其他地方执行此脚本)
 cd "$(dirname "$0")" || exit
-
+hugo build
 # 添加所有更改到暂存区
 git add .
 
