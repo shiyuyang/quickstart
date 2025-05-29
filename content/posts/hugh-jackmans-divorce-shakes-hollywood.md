@@ -1,7 +1,7 @@
 +++
 date = '2025-05-29T20:24:46+08:00'
 draft = false
-title = 'Hugh Jackman''s Divorce Shakes Hollywood' # TOML中单引号转义
+title = 'Hugh Jackman' # TOML中单引号转义
 +++
 
 In a turn of events that has sent shockwaves through the entertainment world, the news of Hugh Jackman's divorce has emerged as a major talking point. The beloved Australian actor, known for his iconic roles such as Wolverine in the 'X-Men' series, has long been regarded as one of Hollywood's most charming and family-oriented stars. But now, the curtains seem to be closing on his marriage. 
