@@ -2,7 +2,7 @@ title = "News Today"
 baseURL = "https://quickstart-drab.vercel.app/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "./resources"
+resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
