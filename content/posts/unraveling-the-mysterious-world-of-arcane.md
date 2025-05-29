@@ -1,7 +1,7 @@
 +++
 date = '2025-05-29T16:16:02+08:00'
 draft = false
-title = 'Unraveling the Mysterious World of ''Arcane''' # TOML中单引号转义
+title = 'Unraveling the Mysterious World of Arcane' # TOML中单引号转义
 +++
 
 In the vast landscape of online trends, the term 'arcane' has been making waves. But what exactly does this seemingly esoteric word entail? Let's embark on a journey to find out.

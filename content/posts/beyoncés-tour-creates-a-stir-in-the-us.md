@@ -1,7 +1,7 @@
 +++
 date = '2025-05-29T18:19:59+08:00'
 draft = false
-title = 'Beyoncé''s Tour Creates a Stir in the US' # TOML中单引号转义
+title = 'Beyoncé Tour Creates a Stir in the US' # TOML中单引号转义
 +++
 
 In the world of music, few names command as much attention as Beyoncé. Her tours are not just musical events; they are cultural phenomena that sweep across the nation.
