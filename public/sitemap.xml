@@ -2,13 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/john-laurinaitis/</loc>
-    <lastmod>2025-05-29T10:57:26+08:00</lastmod>
-  </url><url>
     <loc>https://example.org/</loc>
-    <lastmod>2025-05-29T10:57:26+08:00</lastmod>
+    <lastmod>2025-05-29T13:12:33+08:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/</loc>
+    <lastmod>2025-05-29T13:12:33+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/seth-meyers/</loc>
+    <lastmod>2025-05-29T13:12:33+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/miranda-lambert/</loc>
+    <lastmod>2025-05-29T13:11:53+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/ryan-reynolds/</loc>
+    <lastmod>2025-05-29T13:11:20+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/man-of-the-year-lorde/</loc>
+    <lastmod>2025-05-29T13:10:34+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/portland-weather/</loc>
+    <lastmod>2025-05-29T13:09:50+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/mariners-game/</loc>
+    <lastmod>2025-05-29T13:09:06+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/luke-weaver/</loc>
+    <lastmod>2025-05-29T13:08:31+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/cory-booker/</loc>
+    <lastmod>2025-05-29T13:07:53+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/angelina-jolie/</loc>
+    <lastmod>2025-05-29T13:07:16+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/jasmine-crockett/</loc>
+    <lastmod>2025-05-29T13:06:23+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/tennis/</loc>
+    <lastmod>2025-05-29T12:05:52+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/arthur-demoulas-market-basket/</loc>
+    <lastmod>2025-05-29T12:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/corona/</loc>
+    <lastmod>2025-05-29T12:04:09+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/paul-george/</loc>
+    <lastmod>2025-05-29T12:03:08+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/stanley-cup-finals-schedule/</loc>
+    <lastmod>2025-05-29T12:02:16+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/nikola-topic/</loc>
+    <lastmod>2025-05-29T12:01:03+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/trump-truth-social/</loc>
+    <lastmod>2025-05-29T12:00:27+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/extreme-heat-warning/</loc>
+    <lastmod>2025-05-29T11:59:44+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/mariners/</loc>
+    <lastmod>2025-05-29T11:58:54+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/mariners-score/</loc>
+    <lastmod>2025-05-29T11:58:11+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/john-laurinaitis/</loc>
     <lastmod>2025-05-29T10:57:26+08:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/ajga/</loc>
