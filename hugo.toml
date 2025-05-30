@@ -1,8 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://quickstart-drab.vercel.app/'
 languageCode = 'en-us'
 title = 'News Today'
 theme = 'ananke'
 SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
 [sitemap]
 changefreq = "monthly"
 priority = 0.5
